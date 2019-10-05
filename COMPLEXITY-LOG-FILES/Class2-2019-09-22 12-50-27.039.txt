@@ -1,0 +1,55 @@
+Complexity summary: Statement Size, line: 0
+ arithmetic operator(s) detected
+ key word(s) detected
+ other types(class/methods/attributes/arrays) detected
+ number(s) detected
+Complexity summary: Statement Size, line: 1
+Complexity summary: Statement Size, line: 2
+ key word(s) detected
+ other types(class/methods/attributes/arrays) detected
+Complexity summary: Statement Size, line: 3
+ arithmetic operator(s) detected
+ key word(s) detected
+Complexity summary: Statement Size, line: 4
+ assignment operator(s) detected
+ number(s) detected
+Complexity summary: Statement Size, line: 5
+ arithmetic operator(s) detected
+ assignment operator(s) detected
+ number(s) detected
+Complexity summary: Statement Size, line: 6
+Complexity summary: Statement Size, line: 7
+ arithmetic operator(s) detected
+ number(s) detected
+Complexity summary: Statement Size, line: 8
+ arithmetic operator(s) detected
+ relation operator(s) detected
+ relation operator(s) detected
+ assignment operator(s) detected
+ key word(s) detected
+ number(s) detected
+Complexity summary: Statement Size, line: 9
+ arithmetic operator(s) detected
+ assignment operator(s) detected
+ number(s) detected
+Complexity summary: Statement Size, line: 10
+ arithmetic operator(s) detected
+ relation operator(s) detected
+ relation operator(s) detected
+ assignment operator(s) detected
+ key word(s) detected
+ number(s) detected
+Complexity summary: Statement Size, line: 11
+ * detected
+ arithmetic operator(s) detected
+ assignment operator(s) detected
+Complexity summary: Statement Size, line: 12
+ arithmetic operator(s) detected
+ logical operator(s) detected
+ misc operator(s) detected
+ key word(s) detected
+ double quotes detected
+Complexity summary: Statement Size, line: 13
+Complexity summary: Statement Size, line: 14
+Complexity summary: Statement Size, line: 15
+Complexity summary: Statement Size, line: 16

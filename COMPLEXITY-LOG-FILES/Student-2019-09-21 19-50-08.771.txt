@@ -1,0 +1,52 @@
+Complexity summary: Statement Size, line: 0
+Complexity summary: Statement Size, line: 1
+Complexity summary: Statement Size, line: 2
+ other types(class/methods/attributes/arrays) detected
+Complexity summary: Statement Size, line: 3
+Complexity summary: Statement Size, line: 4
+ key word(s) detected
+Complexity summary: Statement Size, line: 5
+ key word(s) detected
+ other types(class/methods/attributes/arrays) detected
+Complexity summary: Statement Size, line: 6
+Complexity summary: Statement Size, line: 7
+ misc operator(s) detected
+ key word(s) detected
+ other types(class/methods/attributes/arrays) detected
+Complexity summary: Statement Size, line: 8
+ misc operator(s) detected
+Complexity summary: Statement Size, line: 9
+ misc operator(s) detected
+ assignment operator(s) detected
+Complexity summary: Statement Size, line: 10
+ misc operator(s) detected
+ assignment operator(s) detected
+Complexity summary: Statement Size, line: 11
+Complexity summary: Statement Size, line: 12
+Complexity summary: Statement Size, line: 13
+ key word(s) detected
+ other types(class/methods/attributes/arrays) detected
+Complexity summary: Statement Size, line: 14
+Complexity summary: Statement Size, line: 15
+Complexity summary: Statement Size, line: 16
+Complexity summary: Statement Size, line: 17
+ key word(s) detected
+Complexity summary: Statement Size, line: 18
+ misc operator(s) detected
+ assignment operator(s) detected
+Complexity summary: Statement Size, line: 19
+Complexity summary: Statement Size, line: 20
+Complexity summary: Statement Size, line: 21
+ key word(s) detected
+ other types(class/methods/attributes/arrays) detected
+Complexity summary: Statement Size, line: 22
+Complexity summary: Statement Size, line: 23
+Complexity summary: Statement Size, line: 24
+Complexity summary: Statement Size, line: 25
+ key word(s) detected
+ other types(class/methods/attributes/arrays) detected
+Complexity summary: Statement Size, line: 26
+ misc operator(s) detected
+ assignment operator(s) detected
+Complexity summary: Statement Size, line: 27
+Complexity summary: Statement Size, line: 28

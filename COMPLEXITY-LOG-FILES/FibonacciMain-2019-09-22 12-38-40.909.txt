@@ -1,0 +1,44 @@
+Complexity summary: Statement Size, line: 0
+ other types(class/methods/attributes/arrays) detected
+Complexity summary: Statement Size, line: 1
+Complexity summary: Statement Size, line: 2
+ arithmetic operator(s) detected
+Complexity summary: Statement Size, line: 3
+Complexity summary: Statement Size, line: 4
+ arithmetic operator(s) detected
+ relation operator(s) detected
+ logical operator(s) detected
+ relation operator(s) detected
+ bitwise operator(s) detected
+ assignment operator(s) detected
+ key word(s) detected
+ number(s) detected
+Complexity summary: Statement Size, line: 5
+Complexity summary: Statement Size, line: 6
+Complexity summary: Statement Size, line: 7
+Complexity summary: Statement Size, line: 8
+ arithmetic operator(s) detected
+Complexity summary: Statement Size, line: 9
+ arithmetic operator(s) detected
+ number(s) detected
+Complexity summary: Statement Size, line: 10
+Complexity summary: Statement Size, line: 11
+Complexity summary: Statement Size, line: 12
+Complexity summary: Statement Size, line: 13
+ key word(s) detected
+ other types(class/methods/attributes/arrays) detected
+Complexity summary: Statement Size, line: 14
+ arithmetic operator(s) detected
+ relation operator(s) detected
+ relation operator(s) detected
+ assignment operator(s) detected
+ key word(s) detected
+ number(s) detected
+Complexity summary: Statement Size, line: 15
+ arithmetic operator(s) detected
+ misc operator(s) detected
+ key word(s) detected
+ double quotes detected
+Complexity summary: Statement Size, line: 16
+Complexity summary: Statement Size, line: 17
+Complexity summary: Statement Size, line: 18

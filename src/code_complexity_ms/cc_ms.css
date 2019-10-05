@@ -1,0 +1,23 @@
+
+#btn {
+    -fx-border-style: none
+}
+
+.table-view .column-header,
+.table-view .column-header-background .filler {
+    -fx-background-color:  purple; 
+}
+
+.table-view .column-header .label{
+   -fx-text-fill: white;
+   -fx-font-weight: bold; 
+   -fx-alignment: CENTER_LEFT;
+}
+.table-view .cell{
+  -fx-alignment: BASELINE_LEFT;
+  -fx-border-color: #29292D;
+}
+
+.text {
+   text-overflow: ellipsis;
+}
